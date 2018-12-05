@@ -2,8 +2,7 @@
 applications:
  - name: GetStartedTomcat
    random-route: true
-   path: ./target/GetStartedTomcat-1.0.0.jar
+   path: ./target/GetStartedTomcat-1.0.0.war
    memory: 256M
    instances: 1
    buildpack: java_buildpack
-   host: GetStartedTomcat

@@ -4,7 +4,7 @@
   <groupId>com.ibm.iip</groupId>
   <artifactId>GetStartedTomcat</artifactId>
   <version>1.0.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <name>GetStartedTomcat</name>
   <description>Demo project for rest api with db2.</description>
 	<parent>
