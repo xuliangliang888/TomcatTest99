@@ -11,8 +11,8 @@
 
   <groupId>net.wasdev.wlp.sample</groupId>
   <artifactId>GetStartedTomcat</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <version>1.0.0</version>
+  <packaging>jar</packaging>
 
   <name>Bluemix Getting Started</name>
   <url>https://bluemix.net</url>
