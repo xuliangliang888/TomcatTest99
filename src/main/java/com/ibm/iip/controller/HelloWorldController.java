@@ -20,8 +20,8 @@ public class HelloWorldController extends SpringBootServletInitializer {
     //@ResponseBody
     public String index(Model model) {
     	//System.out.println("xxxxxxxxxxxxxxxxxxx");
-		model.addAttribute("name", "洪永才");
-		model.addAttribute("date", new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
+		//model.addAttribute("name", "洪永才");
+		//model.addAttribute("date", new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
         return "index";
     }
 }
